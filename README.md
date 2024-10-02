@@ -71,4 +71,4 @@ Download and execute the script. Answer the questions asked by the script and it
 cd /var/www/phpmyadmin/themes && wget https://src.dogzocute.space/scripts/phpmyadmin-themes.sh && bash phpmyadmin-themes.sh
 ```
 
-what's inside of [phpmyadmin-themes.sh](https://github.com/Dogzocute-D-e-v/useful-scripts/blob/main/scripts/remove.sh)
+what's inside of [phpmyadmin-themes.sh](https://github.com/Dogzocute-D-e-v/useful-scripts/blob/main/scripts/phpmyadmin-themes.sh)
