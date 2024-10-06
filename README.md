@@ -1,7 +1,7 @@
 ## 🐦 Useful Scripts
 <!--[Github](https://github.com/Dogzocute-D-e-v/Dogzocute-Core) -->
 
-| Pterodactyl Scripts | Avaiavailable |
+| Pterodactyl Scripts | Available |
 |:------------:|:-------------:|
 | [**Install**](https://github.com/Dogzocute-D-e-v/useful-scripts/blob/main/scripts/install.sh)  | ❌  |
 | [**Update**](https://github.com/Dogzocute-D-e-v/useful-scripts/blob/main/scripts/update.sh)  | ✅  |
