@@ -4,7 +4,7 @@
 | Pterodactyl Scripts | Available |
 |:------------:|:-------------:|
 | [**Install**](https://github.com/Dogzocute-D-e-v/useful-scripts/blob/main/scripts/install.sh)  | ❌  |
-| [**Update**](https://github.com/Dogzocute-D-e-v/useful-scripts/blob/main/scripts/update.sh)  | ✅  |
+| [**Update**](https://github.com/Dogzocute-D-e-v/useful-scripts/blob/main/scripts/update.sh)  | ❌  |
 | [**Uninstall**](https://github.com/Dogzocute-D-e-v/useful-scripts/blob/main/scripts/remove.sh)  | ❌  |
 | [**PhpMyAdmin**](https://github.com/Dogzocute-D-e-v/useful-scripts/blob/main/scripts/phpmyadmin-themes.sh)  | ✅ |
 
