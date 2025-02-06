@@ -1,4 +1,4 @@
-## ⚠ MOST OF THESE SCRIPTS HAVE BEEN DISCONTINUED DO NOT USE PLEASE WAIT TILL BASHDOCS 2.0 RELEASES ⚠
+## ⚠ Most of these scripts have been discontinued do not use please wait till bashdocs 2.0 releases ⚠
 
 ## 🐦 Useful Scripts
 <!--[Github](https://github.com/Dogzocute-D-e-v/Dogzocute-Core) -->
@@ -75,4 +75,4 @@ cd /var/www/phpmyadmin/themes && wget https://src.dogzocute.space/scripts/phpmya
 
 what's inside of [phpmyadmin-themes.sh](https://github.com/Dogzocute-D-e-v/useful-scripts/blob/main/scripts/phpmyadmin-themes.sh)
 
-## ⚠ MOST OF THESE SCRIPTS HAVE BEEN DISCONTINUED DO NOT USE PLEASE WAIT TILL BASHDOCS 2.0 RELEASES ⚠
+## ⚠ Most of these scripts have been discontinued do not use please wait till bashdocs 2.0 releases ⚠
